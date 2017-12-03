@@ -1,4 +1,6 @@
-# 2017-12-03
+# Annals of Ommatidia
+
+## 2017-12-03
 
 This is not how it all started. It all started with a
 [picture][imgur:ltrac-wood], and then some [brain
