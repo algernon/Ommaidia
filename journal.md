@@ -32,7 +32,11 @@ interesting thread about the subject.
 
 Also ran across a lot of half-ready, off-the-shelf "DIY Arcade Trackball"
 things, but those were all very far from what I want. I don't think I could
-salvage them for some components, either.
+salvage them for some components, either. For reference, here's [one
+shop][suzohapp] that sells such components. Perhaps worth considering one, after
+all...
+
+ [suzohapp]: https://na.suzohapp.com/products/trackballs/
 
 ## 2017-12-03
 
