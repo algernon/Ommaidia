@@ -1,5 +1,18 @@
 # Annals of Ommatidia
 
+## 2017-12-08
+
+For the past couple of days, I've been pondering about how I would mount the
+ball, and this may very well end up being the hardest part. I do not have a 3D
+printer, nor do I have easy access to one, so prototyping will be a bit hard.
+
+I did find a [blog post][blog:madox:trackball] about someone else on a similar
+journey, which appears to be a decent resource. Having tried to search for DIY
+trackballs, most solutions were either reusing existing components, or looked
+like a brick, or both.
+
+ [blog:madox:trackball]: http://www.madox.net/blog/tag/trackball/
+
 ## 2017-12-03
 
 This is not how it all started. It all started with a
