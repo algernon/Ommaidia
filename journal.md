@@ -38,6 +38,9 @@ all...
 
  [suzohapp]: https://na.suzohapp.com/products/trackballs/
 
+There's also [this funny video](https://vimeo.com/69113731) of a giant
+trackball. Not really useful, but hey. This is a journal, not a schematic.
+
 ## 2017-12-03
 
 This is not how it all started. It all started with a
