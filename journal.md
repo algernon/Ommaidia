@@ -1,5 +1,15 @@
 # Annals of Ommatidia
 
+## 2017-12-23
+
+I've been thinking about LEDs. I definitely do not want a LED under the ball,
+but perhaps they could be useful under the buttons? And while there, what about
+underglow? Between the two, I think underglow would make the more sense, and it
+would be the least disturbing too.
+
+On another note, I'm more and more convinced that I'll have to experiment with a
+thumb-controlled trackball.
+
 ## 2017-12-19
 
 Started experimenting with the idea of a thumb-operated trackball, in a more
