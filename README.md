@@ -17,7 +17,7 @@ time - turn into [blog posts][a:trackball].
 
  [a:trackball]: https://asylum.madhouse-project.org/blog/tags/trackball/
 
-See [journal.md](journal.md) for the raw goodness.
+See [the raw blog](https://algernon.github.io/Ommatidia/) for the raw goodness.
 
 ## License
 
